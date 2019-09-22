@@ -53,7 +53,6 @@ class LogicaAppActivity : AppCompatActivity() {
         }
         else {
             Toast.makeText(this, getString(R.string.Incorrect), Toast.LENGTH_LONG).show()
-
         }
     }
 }
