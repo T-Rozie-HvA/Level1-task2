@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="ColTitle1">A</string>
+    <string name="ColTitle2">B</string>
+    <string name="ColTitle3">A^B</string>
+    <string name="True">T</string>
+    <string name="False">F</string>
+    <string name="Submit">Submit</string>
+
+<!--    result checking-->
+    <string name="Correct">Correct</string>
+    <string name="Incorrect">Incorrect</string>
+    <string name="WrongInput">Only \"T\" and \"F\" are valid inputs</string>
+</resources>
